@@ -25,7 +25,7 @@ A simple and intuitive task management application built with **Flutter** and **
 
 
 
-
+https://github.com/user-attachments/assets/457e809b-42f4-4baa-9ac5-b62d584b9c1c
 
 
 ### Installation
